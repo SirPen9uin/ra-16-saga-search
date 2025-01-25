@@ -1,8 +1,22 @@
-# React + Vite
+# Поиск
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Build status](https://ci.appveyor.com/api/projects/status/pusguxv69fqwyfxw?svg=true)
 
-Currently, two official plugins are available:
+[Результат (Сайт)](https://sirpen9uin.github.io/ra-16-saga-search)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Описание
+
+[Домашнее задание к занятию «Redux Saga»](https://github.com/netology-code/ra16-homeworks/tree/ra-51/saga/search)
+
+Вторая часть проекта: [Saga-Backend](https://github.com/SirPen9uin/ra-16-saga-search-backend)
+Backend сервер: [Backend](https://ra-16-saga-search-backend.onrender.com)
+
+## Развертывание
+
+```npm install```
+
+```npm run dev```
+
+## Сборка
+
+```npm run build```
